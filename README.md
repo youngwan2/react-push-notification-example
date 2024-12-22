@@ -29,7 +29,7 @@
 
 2. Navigate to the project directory:
    ```bash
-   cd react-push
+   cd react-push-notification-example
    ```
 
 3. Install dependencies:
